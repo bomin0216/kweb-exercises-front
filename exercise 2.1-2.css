@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+.chapter .horizontal-lists{
+    /* horizontal-lists는 그냥 태그 아니고 class니까 앞에 .붙이는 것! */
+    color: blue;
+}
+
+.chapter-name{
+    font-weight: bolder;
+}
+
+#current-chapter{
+    color: red;
+}
